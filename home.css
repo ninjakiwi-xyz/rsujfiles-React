@@ -104,7 +104,7 @@
   fill: #595959;
   color: #595959;
   width: 100%;
-  height: auto;
+  height: var(--dl-size-size-small);
   display: inline-flex;
   align-items: center;
   padding-left: var(--dl-space-space-halfunit);
@@ -196,7 +196,7 @@
   fill: #595959;
   color: #595959;
   width: 100%;
-  height: auto;
+  height: var(--dl-size-size-small);
   display: inline-flex;
   align-items: center;
   padding-left: var(--dl-space-space-halfunit);
@@ -316,7 +316,7 @@
 }
 .home-thq-dropdown2 {
   cursor: pointer;
-  height: 48px;
+  height: auto;
   position: relative;
   border-radius: var(--dl-radius-radius-radius2);
 }
@@ -324,7 +324,7 @@
   fill: #595959;
   color: #595959;
   width: 100%;
-  height: auto;
+  height: var(--dl-size-size-small);
   display: inline-flex;
   align-items: center;
   padding-left: var(--dl-space-space-halfunit);
