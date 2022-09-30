@@ -137,6 +137,7 @@
 .home-dropdown-list {
   left: 0%;
   width: max-content;
+  display: none;
   z-index: 100;
   position: absolute;
   min-width: 100%;
